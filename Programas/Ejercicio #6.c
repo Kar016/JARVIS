@@ -8,13 +8,13 @@ void main(void)
 {
  int a, b, c, d;
 
-printf("Ingrese cuatro datos de tipo entero: ");
+printf("Ingrese primer dato de tipo entero: ");
 scanf("%i",&a);
 
-printf("Ingrese cuatro datos de tipo entero: ");
+printf("Ingrese segundo dato de tipo entero: ");
 scanf("%i",&b);
 
-printf("Ingrese cuatro datos de tipo entero: ");
+printf("Ingrese tercer dato de tipo entero: ");
 scanf("%i",&c);
 
 printf("Ingrese cuatro datos de tipo entero: ");
