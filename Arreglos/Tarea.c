@@ -1,6 +1,9 @@
 #include<stdio.h>
 #include<conio.h>
 
+// Profesor para correr este programa Run File de manera manual o en otro programa, porque mi VS esta presentando ciertos fallos
+// a la hora de compilar
+
 void ingresar (int a[6])
 {
     for (int f=1; f<=6; f++)
