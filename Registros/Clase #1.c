@@ -9,11 +9,11 @@ int main()
 
     if ((archivo=fopen("Lista.txt", "w")) != NULL)
     {
-        printf("Escribe su monbre: ");
-        scanf("%s",&nombre);
 
         while((nombre = getchar()) != NULL)
         {
+            printf("Escribe su monbre: ");
+            scanf("%s",&nombre);
             fputc(nombre,archivo);
         }
 
