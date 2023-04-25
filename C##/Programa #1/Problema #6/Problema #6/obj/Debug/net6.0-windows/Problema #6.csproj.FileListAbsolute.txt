@@ -1,0 +1,17 @@
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #6\Problema #6\bin\Debug\net6.0-windows\Problema #6.exe
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #6\Problema #6\bin\Debug\net6.0-windows\Problema #6.deps.json
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #6\Problema #6\bin\Debug\net6.0-windows\Problema #6.runtimeconfig.json
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #6\Problema #6\bin\Debug\net6.0-windows\Problema #6.dll
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #6\Problema #6\bin\Debug\net6.0-windows\Problema #6.pdb
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #6\Problema #6\obj\Debug\net6.0-windows\Problema #6.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #6\Problema #6\obj\Debug\net6.0-windows\Problema__6.Form1.resources
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #6\Problema #6\obj\Debug\net6.0-windows\Problema #6.csproj.GenerateResource.cache
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #6\Problema #6\obj\Debug\net6.0-windows\Problema #6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #6\Problema #6\obj\Debug\net6.0-windows\Problema #6.AssemblyInfoInputs.cache
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #6\Problema #6\obj\Debug\net6.0-windows\Problema #6.AssemblyInfo.cs
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #6\Problema #6\obj\Debug\net6.0-windows\Problema #6.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #6\Problema #6\obj\Debug\net6.0-windows\Problema #6.dll
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #6\Problema #6\obj\Debug\net6.0-windows\refint\Problema #6.dll
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #6\Problema #6\obj\Debug\net6.0-windows\Problema #6.pdb
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #6\Problema #6\obj\Debug\net6.0-windows\Problema #6.genruntimeconfig.cache
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #6\Problema #6\obj\Debug\net6.0-windows\ref\Problema #6.dll
