@@ -1,0 +1,18 @@
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #8\Problema #8\bin\Debug\net6.0-windows\Problema #8.exe
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #8\Problema #8\bin\Debug\net6.0-windows\Problema #8.deps.json
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #8\Problema #8\bin\Debug\net6.0-windows\Problema #8.runtimeconfig.json
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #8\Problema #8\bin\Debug\net6.0-windows\Problema #8.dll
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #8\Problema #8\bin\Debug\net6.0-windows\Problema #8.pdb
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #8\Problema #8\obj\Debug\net6.0-windows\Problema #8.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #8\Problema #8\obj\Debug\net6.0-windows\Problema__8.Form1.resources
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #8\Problema #8\obj\Debug\net6.0-windows\Problema__8.Form2.resources
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #8\Problema #8\obj\Debug\net6.0-windows\Problema #8.csproj.GenerateResource.cache
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #8\Problema #8\obj\Debug\net6.0-windows\Problema #8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #8\Problema #8\obj\Debug\net6.0-windows\Problema #8.AssemblyInfoInputs.cache
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #8\Problema #8\obj\Debug\net6.0-windows\Problema #8.AssemblyInfo.cs
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #8\Problema #8\obj\Debug\net6.0-windows\Problema #8.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #8\Problema #8\obj\Debug\net6.0-windows\Problema #8.dll
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #8\Problema #8\obj\Debug\net6.0-windows\refint\Problema #8.dll
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #8\Problema #8\obj\Debug\net6.0-windows\Problema #8.pdb
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #8\Problema #8\obj\Debug\net6.0-windows\Problema #8.genruntimeconfig.cache
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #8\Problema #8\obj\Debug\net6.0-windows\ref\Problema #8.dll
