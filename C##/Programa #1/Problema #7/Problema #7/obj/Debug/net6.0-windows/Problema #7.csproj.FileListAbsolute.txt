@@ -1,0 +1,18 @@
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #7\Problema #7\bin\Debug\net6.0-windows\Problema #7.exe
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #7\Problema #7\bin\Debug\net6.0-windows\Problema #7.deps.json
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #7\Problema #7\bin\Debug\net6.0-windows\Problema #7.runtimeconfig.json
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #7\Problema #7\bin\Debug\net6.0-windows\Problema #7.dll
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #7\Problema #7\bin\Debug\net6.0-windows\Problema #7.pdb
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #7\Problema #7\obj\Debug\net6.0-windows\Problema #7.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #7\Problema #7\obj\Debug\net6.0-windows\Problema__7.Screen1.resources
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #7\Problema #7\obj\Debug\net6.0-windows\Problema__7.Screen2.resources
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #7\Problema #7\obj\Debug\net6.0-windows\Problema #7.csproj.GenerateResource.cache
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #7\Problema #7\obj\Debug\net6.0-windows\Problema #7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #7\Problema #7\obj\Debug\net6.0-windows\Problema #7.AssemblyInfoInputs.cache
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #7\Problema #7\obj\Debug\net6.0-windows\Problema #7.AssemblyInfo.cs
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #7\Problema #7\obj\Debug\net6.0-windows\Problema #7.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #7\Problema #7\obj\Debug\net6.0-windows\Problema #7.dll
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #7\Problema #7\obj\Debug\net6.0-windows\refint\Problema #7.dll
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #7\Problema #7\obj\Debug\net6.0-windows\Problema #7.pdb
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #7\Problema #7\obj\Debug\net6.0-windows\Problema #7.genruntimeconfig.cache
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #7\Problema #7\obj\Debug\net6.0-windows\ref\Problema #7.dll
