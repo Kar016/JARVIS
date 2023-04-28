@@ -1,0 +1,16 @@
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #40\Problema #40\bin\Debug\Problema #40.exe.config
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #40\Problema #40\bin\Debug\Problema #40.exe
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #40\Problema #40\bin\Debug\Problema #40.pdb
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #40\Problema #40\bin\Debug\Interop.WMPLib.dll
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #40\Problema #40\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #40\Problema #40\obj\Debug\Problema #40.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #40\Problema #40\obj\Debug\Problema #40.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #40\Problema #40\obj\Debug\Interop.WMPLib.dll
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #40\Problema #40\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #40\Problema #40\obj\Debug\Problema #40.csproj.ResolveComReference.cache
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #40\Problema #40\obj\Debug\Problema__40.Form1.resources
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #40\Problema #40\obj\Debug\Problema__40.Properties.Resources.resources
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #40\Problema #40\obj\Debug\Problema #40.csproj.GenerateResource.cache
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #40\Problema #40\obj\Debug\Problema #40.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #40\Problema #40\obj\Debug\Problema #40.exe
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #40\Problema #40\obj\Debug\Problema #40.pdb
