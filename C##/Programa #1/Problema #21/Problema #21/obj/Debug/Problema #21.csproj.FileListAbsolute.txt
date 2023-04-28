@@ -1,0 +1,11 @@
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #21\Problema #21\bin\Debug\Problema #21.exe.config
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #21\Problema #21\bin\Debug\Problema #21.exe
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #21\Problema #21\bin\Debug\Problema #21.pdb
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #21\Problema #21\obj\Debug\Problema #21.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #21\Problema #21\obj\Debug\Problema #21.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #21\Problema #21\obj\Debug\Problema__21.Form1.resources
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #21\Problema #21\obj\Debug\Problema__21.Properties.Resources.resources
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #21\Problema #21\obj\Debug\Problema #21.csproj.GenerateResource.cache
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #21\Problema #21\obj\Debug\Problema #21.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #21\Problema #21\obj\Debug\Problema #21.exe
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #21\Problema #21\obj\Debug\Problema #21.pdb
