@@ -1,0 +1,17 @@
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #44\Problema #44\bin\Debug\net6.0-windows\Problema #44.exe
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #44\Problema #44\bin\Debug\net6.0-windows\Problema #44.deps.json
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #44\Problema #44\bin\Debug\net6.0-windows\Problema #44.runtimeconfig.json
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #44\Problema #44\bin\Debug\net6.0-windows\Problema #44.dll
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #44\Problema #44\bin\Debug\net6.0-windows\Problema #44.pdb
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #44\Problema #44\obj\Debug\net6.0-windows\Problema #44.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #44\Problema #44\obj\Debug\net6.0-windows\Problema__44.Form1.resources
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #44\Problema #44\obj\Debug\net6.0-windows\Problema #44.csproj.GenerateResource.cache
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #44\Problema #44\obj\Debug\net6.0-windows\Problema #44.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #44\Problema #44\obj\Debug\net6.0-windows\Problema #44.AssemblyInfoInputs.cache
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #44\Problema #44\obj\Debug\net6.0-windows\Problema #44.AssemblyInfo.cs
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #44\Problema #44\obj\Debug\net6.0-windows\Problema #44.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #44\Problema #44\obj\Debug\net6.0-windows\Problema #44.dll
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #44\Problema #44\obj\Debug\net6.0-windows\refint\Problema #44.dll
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #44\Problema #44\obj\Debug\net6.0-windows\Problema #44.pdb
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #44\Problema #44\obj\Debug\net6.0-windows\Problema #44.genruntimeconfig.cache
+C:\Users\pc\OneDrive\Documentos\Karen\C#\Problema #44\Problema #44\obj\Debug\net6.0-windows\ref\Problema #44.dll
